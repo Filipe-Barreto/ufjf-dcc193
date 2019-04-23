@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Exm01Application<exm01>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.ufjf.dcc193.exm01.Exm01Application",
+            "projectName": "exm01",
+            "args": ""
+        }
+    ]
+}
